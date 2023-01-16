@@ -1,0 +1,6 @@
+---
+- name: Test Playbook 
+  hosts: localhost
+
+  roles:
+   - print
